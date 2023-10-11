@@ -1,0 +1,23 @@
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+
+components
+layouts
+middleware
+pages
+plugins
+static
+store
+assets
+nuxt.config.js
+package.json
+package-lock.json
+yarn.lock
+README.md
+
