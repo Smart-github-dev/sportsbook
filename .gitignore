@@ -20,4 +20,7 @@ package.json
 package-lock.json
 yarn.lock
 README.md
+.editorconfig
+.eslintrc.js
+
 
